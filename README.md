@@ -1,4 +1,4 @@
--🏀Hello, I´m @httpsyoh
--🤍I´m 12 years old.
--💥I study in Senai an OnWay.
--📊I´m to learn english and programming.
+- 🏀Hello, I´m @httpsyoh
+- 🤍I´m 12 years old.
+- 💥I study in Senai an OnWay.
+- 📊I´m to learn english and programming.
